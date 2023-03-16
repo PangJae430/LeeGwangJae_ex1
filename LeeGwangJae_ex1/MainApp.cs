@@ -2,7 +2,7 @@
 
 namespace LeeGwangJae_ex1
 {
-    class Program
+    class MainApp
     {
         static void Main(string[] args)
         {
