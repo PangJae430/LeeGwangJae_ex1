@@ -6,7 +6,7 @@ namespace LeeGwangJae_ex3_1_
     {
         static void Main(string[] args)
         {
-            int i = 1;
+            int i = 0;
 
             do
             {
@@ -16,11 +16,11 @@ namespace LeeGwangJae_ex3_1_
                     Console.Write("*");
                     j++;
                 }
-                while (j < i);
+                while (j <= i);
                 Console.WriteLine();
                 i++;
             }
-            while (i < 6);
+            while (i < 5);
         }
     }
 }

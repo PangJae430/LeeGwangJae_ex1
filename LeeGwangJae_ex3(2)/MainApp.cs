@@ -20,7 +20,7 @@ namespace LeeGwangJae_ex3_2_
                 Console.WriteLine();
                 i--;
             }
-            while (i < 1);
+            while (i > 0);
         }
     }
 }

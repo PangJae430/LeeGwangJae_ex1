@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeGwangJae_ex3(1)", "LeeGw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeGwangJae_ex3(2)", "LeeGwangJae_ex3(2)\LeeGwangJae_ex3(2).csproj", "{F6E934E6-6101-4E5A-91EF-E3E4905B6437}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeeGwangJae_ex4", "LeeGwangJae_ex4\LeeGwangJae_ex4.csproj", "{E962626D-6146-4BD1-A2AA-1E03FF5D3C04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F6E934E6-6101-4E5A-91EF-E3E4905B6437}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6E934E6-6101-4E5A-91EF-E3E4905B6437}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6E934E6-6101-4E5A-91EF-E3E4905B6437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E962626D-6146-4BD1-A2AA-1E03FF5D3C04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E962626D-6146-4BD1-A2AA-1E03FF5D3C04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E962626D-6146-4BD1-A2AA-1E03FF5D3C04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E962626D-6146-4BD1-A2AA-1E03FF5D3C04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
