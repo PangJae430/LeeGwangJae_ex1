@@ -1,19 +1,26 @@
 ﻿using System;
 
-namespace LeeGwangJae_ex1
+namespace LeeGwangJae_ex3_2_
 {
     class MainApp
     {
         static void Main(string[] args)
         {
-            for(int i=0;i<5;i++)
-            { 
-                for(int j=0;j<=i;j++)
+            int i = 5;
+
+            do
+            {
+                int j = 0;
+                do
                 {
                     Console.Write("*");
+                    j++;
                 }
+                while (j < i);
                 Console.WriteLine();
+                i--;
             }
+            while (i < 1);
         }
     }
 }
